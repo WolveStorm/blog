@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://wolvestorm.github.io/blog/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://wolvestorm.github.io/blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/"
+                href="https://wolvestorm.github.io/blog/"
                 />
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://wolvestorm.github.io/blog/categories/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://wolvestorm.github.io/blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/categories/"
+                href="https://wolvestorm.github.io/blog/categories/"
                 />
   </url><url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>https://wolvestorm.github.io/blog/tags/golang/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>https://wolvestorm.github.io/blog/categories/golang/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/grpc/</loc>
+    <loc>https://wolvestorm.github.io/blog/tags/grpc/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/golang/</loc>
+    <loc>https://wolvestorm.github.io/blog/posts/golang/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://wolvestorm.github.io/blog/posts/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://wolvestorm.github.io/blog/tags/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://wolvestorm.github.io/blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/tags/"
+                href="https://wolvestorm.github.io/blog/tags/"
                 />
   </url><url>
-    <loc>http://example.org/posts/gin/</loc>
+    <loc>https://wolvestorm.github.io/blog/posts/gin/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/page/</loc>
+    <loc>https://wolvestorm.github.io/blog/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/page/"
+                href="https://wolvestorm.github.io/blog/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/page/"
+                href="https://wolvestorm.github.io/blog/page/"
                 />
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://wolvestorm.github.io/blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archives/"
+                href="https://wolvestorm.github.io/blog/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/archives/"
+                href="https://wolvestorm.github.io/blog/archives/"
                 />
   </url><url>
-    <loc>http://example.org/categories/test/</loc>
+    <loc>https://wolvestorm.github.io/blog/categories/test/</loc>
   </url><url>
-    <loc>http://example.org/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://wolvestorm.github.io/blog/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/link/"
+                href="https://wolvestorm.github.io/blog/en/link/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/%E9%93%BE%E6%8E%A5/"
+                href="https://wolvestorm.github.io/blog/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://wolvestorm.github.io/blog/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/search/"
+                href="https://wolvestorm.github.io/blog/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/search/"
+                href="https://wolvestorm.github.io/blog/search/"
                 />
   </url>
 </urlset>

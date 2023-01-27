@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Vegetable Gopher</title>
-        <link>http://example.org/en/page/</link>
+        <link>https://wolvestorm.github.io/blog/en/page/</link>
         <description>Recent content in Pages on Vegetable Gopher</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://wolvestorm.github.io/blog/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>http://example.org/en/archives/</link>
+        <link>https://wolvestorm.github.io/blog/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/en/archives/</guid>
+        <guid>https://wolvestorm.github.io/blog/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Link</title>
-        <link>http://example.org/en/link/</link>
+        <link>https://wolvestorm.github.io/blog/en/link/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/en/link/</guid>
+        <guid>https://wolvestorm.github.io/blog/en/link/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -51,10 +51,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>http://example.org/en/search/</link>
+        <link>https://wolvestorm.github.io/blog/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://example.org/en/search/</guid>
+        <guid>https://wolvestorm.github.io/blog/en/search/</guid>
         <description></description>
         </item>
         
